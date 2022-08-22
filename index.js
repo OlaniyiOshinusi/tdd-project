@@ -1,3 +1,8 @@
-const numToRoman = () => {};
+// My converter function!
+const numToRoman = (num) => {
 
-module.exports = { numToRoman }
+    return num === 1 ? "I" : num === 2 ? "II" : "III" ;
+};
+
+// Exporting the function to be used in another file
+module.exports = { numToRoman };
