@@ -1,0 +1,22 @@
+{
+  "name": "tdd-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlaniyiOshinusi/tdd-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlaniyiOshinusi/tdd-project/issues"
+  },
+  "homepage": "https://github.com/OlaniyiOshinusi/tdd-project#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
